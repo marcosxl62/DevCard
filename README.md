@@ -18,7 +18,7 @@ Projeto pessoal desenvolvido para praticar tecnologias web e criar um cartão de
 <br>
 
 <p align="center">
-  <img alt="DevCard, seu cartão de visita digital na web" src=".github/preview.jpg" width="100%">
+  <img alt="DevCard, seu cartão de visita digital" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
