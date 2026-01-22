@@ -19,3 +19,5 @@ switchEl.addEventListener("click", () => {
     img.setAttribute("alt", "Foto de perfil com fundo escuro");
   }
 });
+
+// teste //
